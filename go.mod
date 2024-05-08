@@ -1,3 +1,3 @@
-module github.com/spywiree/languagecodes
+module github.com/spywiree/langcodes
 
 go 1.22.2
